@@ -27,7 +27,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="cpp logo"  />
-  [![My Linked in](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg)](https://example.com)
+  <a href="https://www.linkedin.com/in/ahmed-abubakr-a27b7a278/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="My LinkedIn" />
+  </a>
 </div>
 
 ###
